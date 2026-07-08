@@ -1,6 +1,6 @@
 # Kali Linux 学习指南第二版（早期发布）
 
-> 原文：[`zh.annas-archive.org/md5/2ac9b83227a2e8727ec4e580620f10fb`](https://zh.annas-archive.org/md5/2ac9b83227a2e8727ec4e580620f10fb)
+> 原文：[Learning Kali Linux: Security Testing, Penetration Testing, and Ethical Hacking, 2nd Edition - First Early Release](https://zh.annas-archive.gl/md5/2ac9b83227a2e8727ec4e580620f10fb)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 
